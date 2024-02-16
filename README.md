@@ -1,12 +1,26 @@
+**Netflix-AI is a user-friendly, web application built with React where we can watch movies, shows, and series seamlessly while enjoying a personalized recommendation engine powered by OpenAI API.**
 
-![Screenshot (4251)](https://github.com/Vipuljain09/Zintlr-Assement/assets/87020143/9dfd0851-4447-4501-b932-c098b3ffdcad)
-
-![Screenshot (4252)](https://github.com/Vipuljain09/Zintlr-Assement/assets/87020143/ccfd2c01-c0a2-4f03-bbac-152869d9bce6)
-
+**Deploy-Link:** https://65ceebb9f1bcac781a005b2c--splendorous-puffpuff-391dff.netlify.app/
 
 
+Desktop UI :
 
-![Screenshot (4253)](https://github.com/Vipuljain09/Zintlr-Assement/assets/87020143/7d597629-c62c-4005-ba1f-d6010de49b2c)
+![Screenshot (4537)](https://github.com/Vipuljain09/NetflixAI/assets/87020143/46875e9a-1976-423b-8155-793d567b3241)
+
+![Screenshot (4538)](https://github.com/Vipuljain09/NetflixAI/assets/87020143/a73c689e-6bd6-4af3-aa11-86fad5457f10)
+
+![Screenshot (4530)](https://github.com/Vipuljain09/NetflixAI/assets/87020143/ae7d84e2-4e59-4255-be25-ff80fb01f6f9)
+
+![Screenshot (4539)](https://github.com/Vipuljain09/NetflixAI/assets/87020143/e0d526f0-8682-4dcc-ba8d-03dfad34e950)
+
+![Screenshot (4540)](https://github.com/Vipuljain09/NetflixAI/assets/87020143/2a032446-f419-487b-9f8e-f95990dec5e6)
+
+![Screenshot (4545)](https://github.com/Vipuljain09/NetflixAI/assets/87020143/397d1a35-eb20-4150-ab4b-eeee406cda88)
+
+
+![Screenshot (4543)](https://github.com/Vipuljain09/NetflixAI/assets/87020143/24a4340c-5c44-4d10-8be1-929cd417ec4a)
+
+
 
 
 # Getting Started with Create React App
